@@ -4,9 +4,13 @@ title: Education
 ---
 
 ## Education
+| **Institution / Board** | **Program** | **Year** |
+| ----------------------- | ----------- | -------- |
+| Indian Institute of Technology, Bombay | B.Tech + M.Tech (Electrical Engineering) | 2022-2027 |
+| CBSE | Senior Secondary Education | 2020-2022 |
+| CBSE | Secondary Education | 2019 - 2020 |
 
-- Dual Degree (B.Tech + M.Tech) in Electrical Engineering, IIT Bombay [2022–2027]
-- Minor in Computer Science Engineering, IIT Bombay
+- Dual Minor in Computer Science and Data Science, IIT Bombay
 
 ## Academic Achievements
 
