@@ -57,12 +57,13 @@ title: Education
     <div class="course-column">
       <h3>Computer Science & Mathematics</h3>
       <ul>
-        <li>Discrete Structures</li>
-        <li>Automata Theory</li>
+        <li>Discrete Structures (CS 207)</li>
+        <li>Automata Theory (CS 310)</li>
+        <li>Game Theory and Algorithm Design (CS 405)</li>
+        <li><a href="https://github.com/NoviceCoderInfinity/CS_754_Advanced_Image_Processing">Advanced Image Processing (CS754)</a></li>
         <li>Calculus I & II</li>
         <li>Linear Algebra & Applied Linear Algebra</li>
         <li>Differential Equations</li>
-        <li><a href="https://github.com/NoviceCoderInfinity/CS_754_Advanced_Image_Processing">Advanced Image Processing (CS754)</a></li>
       </ul>
     </div>
     <div class="course-column">
@@ -72,5 +73,20 @@ title: Education
         <li><a href="https://github.com/satushparikh/CS726-assignments">Advanced Machine Learning (CS 726)</a></li>
       </ul>
     </div>
+    <div class="course-column">
+        <h3>Electrical Engineering</h3>
+        <ul>
+            <li><a href="https://github.com/NoviceCoderInfinity/EE230_Analog_Lab">Analog Circuits (EE 230)</a></li>
+            <li>Power Engineering I&II</li>
+            <li>Digital Circuits</li>
+            <li>Electronic Devices and Circuits</li>
+            <li>ElectroMagnetic Waves</li>
+            <li>Control Systems</li>
+            <li><a href="https://github.com/NoviceCoderInfinity/EE_309_MicroProessor">Microprocessors</a>></li>
+            <li><a href="https://github.com/NoviceCoderInfinity/EE_340_Communication_Lab_IIT_Bombay">Communication System</a></li>
+            <li>Digital Signal Processing</li>
+        </ul>
+    </div>
+
   </div>
 </div>
