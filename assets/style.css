@@ -42,3 +42,46 @@ footer {
   margin-top: 2rem;
   color: #555;
 }
+
+.section {
+  margin-bottom: 3rem;
+}
+
+.section h2 {
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 0.5rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+table th,
+table td {
+  border: 1px solid #ddd;
+  padding: 0.75rem;
+  text-align: left;
+}
+
+table th {
+  background-color: #f9f9f9;
+}
+
+ul.achievements {
+  list-style: disc;
+  margin-left: 1.5rem;
+}
+
+.course-columns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.course-column {
+  flex: 1;
+  min-width: 200px;
+}
