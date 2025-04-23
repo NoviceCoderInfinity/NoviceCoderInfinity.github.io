@@ -14,10 +14,21 @@ header nav {
   align-items: center;
 }
 
-header nav a {
+/* Updated navigation style */
+header nav ul {
+  list-style: none; /* Remove bullets */
+  margin: 0;
+  padding: 0;
+  display: flex; /* Make list items horizontal */
+}
+
+header nav ul li {
+  margin: 0 10px;
+}
+
+header nav ul li a {
   color: white;
   text-decoration: none;
-  margin: 0 10px;
 }
 
 main {
