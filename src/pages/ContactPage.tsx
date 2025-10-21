@@ -8,19 +8,19 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email",
-    value: "your.email@example.com",
-    href: "mailto:your.email@example.com",
+    value: "anupam.rawat.iitb@gmail.com",
+    href: "mailto:anupam.rawat.iitb@gmail.com",
   },
   {
     icon: Phone,
     label: "Phone",
-    value: "+1 (555) 123-4567",
-    href: "tel:+15551234567",
+    value: "+91 89282 74275",
+    href: "tel:+918928274275",
   },
   {
     icon: MapPin,
     label: "Location",
-    value: "San Francisco, CA",
+    value: "Mumbai, India",
     href: "#",
   },
 ];
@@ -29,20 +29,20 @@ const socialLinks = [
   {
     icon: Github,
     label: "GitHub",
-    href: "https://github.com",
-    username: "@yourusername",
+    href: "https://github.com/NoviceCoderInfinity",
+    username: "@NoviceCoderInfinity",
   },
   {
     icon: Linkedin,
     label: "LinkedIn",
-    href: "https://linkedin.com",
-    username: "Anupam Rawat",
+    href: "https://linkedin.com/in/anupamrawat001",
+    username: "@anupamrawat001",
   },
   {
     icon: Twitter,
     label: "Twitter",
-    href: "https://twitter.com",
-    username: "@yourusername",
+    href: "https://twitter.com/_AnupamRawat_",
+    username: "@_AnupamRawat_",
   },
 ];
 
